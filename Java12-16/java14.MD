@@ -1,0 +1,5 @@
+1.改进的switch表达式完全支持
+2.instanceof支持模式匹配
+3.record特性，省去写get，equals等方法
+4.NullPointerException精确到哪一行
+5.加入java打包工具jpackage的预览
